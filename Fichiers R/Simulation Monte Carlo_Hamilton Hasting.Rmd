@@ -1,0 +1,48 @@
+---
+title: "Monte Carlo hamiltonien dans le contexte de données hiérarchiques"
+output: html_notebook
+author: Mohammed - Hilaire - Amir - Georges
+---
+
+### Importaion des librairies
+
+```{r}
+#
+```
+
+> Fonctions outils (Helpers)
+
+```{r}
+# Fonctions constamment utilsees (alleger le code)
+```
+
+### Importation des donnees
+
+```{r}
+#
+```
+
+1. Analyse exploratoire
+
+```{r}
+#
+```
+
+2. Pre-traitement des donnees
+
+```{r}
+#
+```
+
+### Construction des modeles
+
+```{r}
+#
+```
+
+### Evaluation des modeles
+
+```{r}
+#
+```
+
